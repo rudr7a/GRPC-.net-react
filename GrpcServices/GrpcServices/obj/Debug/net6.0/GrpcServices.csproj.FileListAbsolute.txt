@@ -9,6 +9,7 @@ D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\bin\Debug\net6.0\Google
 D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\bin\Debug\net6.0\Grpc.AspNetCore.Server.dll
 D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\bin\Debug\net6.0\Grpc.AspNetCore.Server.ClientFactory.dll
 D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\bin\Debug\net6.0\Grpc.AspNetCore.Server.Reflection.dll
+D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\bin\Debug\net6.0\Grpc.AspNetCore.Web.dll
 D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\bin\Debug\net6.0\Grpc.Core.Api.dll
 D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\bin\Debug\net6.0\Grpc.Net.Client.dll
 D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\bin\Debug\net6.0\Grpc.Net.ClientFactory.dll
@@ -42,4 +43,3 @@ D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\obj\Debug\net6.0\refint
 D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\obj\Debug\net6.0\GrpcServices.pdb
 D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\obj\Debug\net6.0\GrpcServices.genruntimeconfig.cache
 D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\obj\Debug\net6.0\ref\GrpcServices.dll
-D:\I Code Sometimes\JobProject\GrpcServices\GrpcServices\bin\Debug\net6.0\Grpc.AspNetCore.Web.dll

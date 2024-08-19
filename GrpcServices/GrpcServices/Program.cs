@@ -2,8 +2,8 @@ using GrpcServices;
 using GrpcServices.Data;
 using GrpcServices.Services;
 using Microsoft.EntityFrameworkCore;
-using Grpc.AspNetCore.Server; // gRPC reflection
-using Grpc.AspNetCore.Web; // gRPC-Web
+using Grpc.AspNetCore.Server; 
+using Grpc.AspNetCore.Web; 
 using System.Diagnostics;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -61,7 +61,7 @@ app.MapGrpcReflectionService();
 app.MapGet("/", () => "Communication with gRPC endpoints must be made through a gRPC client. To learn how to create a client, visit: https://go.microsoft.com/fwlink/?linkid=2086909");
 
 // Start the browser and navigate to the application's home page
-var url = "https://localhost:5001";  // Adjust the URL and port as needed
+var url = "https://localhost:5001";  
 Process.Start(new ProcessStartInfo
 {
     FileName = url,
