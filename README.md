@@ -54,7 +54,7 @@ The React app should now be running at http://localhost:3000 and should be able 
 
 Live Demo
 
-     https://rudr7a.github.io/GrpcHost/
+   https://rudr7a.github.io/GrpcHost/
 
 Branch Information
 
