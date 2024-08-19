@@ -3,7 +3,7 @@ import { GreeterClient } from './proto/greet_grpc_web_pb';
 import { HelloRequest } from './proto/greet_pb';
 import { Container, TextField, Button, Typography } from '@mui/material';
 
-const client = new GreeterClient('https://rpcapp-b7cucdd4h2a0htfg.southindia-01.azurewebsites.net', null, null);
+const client = new GreeterClient('<grpc services url>', null, null);
 
 function App() {
   const [name, setName] = useState('');
